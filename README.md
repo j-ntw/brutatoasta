@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech about online FPS games: netcode, security, latency, sound design, etc.
 - 🌱 I’m currently learning GameMaker Studio 2
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... I'll work this out.
+- 📫 How to reach me ... joshuantw(AT)(DOT)gmail(DOT)com
 
 <!---
 brutatoasta/brutatoasta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
