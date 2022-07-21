@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brutatoasta, a 2nd year CS student.
 - 👀 I’m interested in tech about online FPS games: netcode, security, latency, sound design, etc.
 - 🌱 I’m currently learning GameMaker Studio 2
-- 📫 How to reach me ... joshuantw(AT)gmail(DOT)com
+- 📫 How to reach me ... (AT)brutatoasta on Telegram; joshuantw(AT)gmail(DOT)com
 
 ## Some of my mini projects
 
