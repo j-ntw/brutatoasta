@@ -21,8 +21,17 @@
 ```
 You can remove the tags if you're not using shared folders on google drive, and not uploading large numbers/large files onto dropbox
 ## FAQ
-Q: Free?
-A: rclone is free. Google Drive API calls and gcloud project should be free. Dropbox is free (but paid larger storage plans are not). As far as I can tell, this method directly pipes the files to your new storage provider, preserving Modified Date etc. without storing on your local drive. It consumes network bandwidth though, so get a good connection (not free).
+**Q:** Free?
+
+**A:** rclone is free. 
+
+Google Drive API calls and gcloud project should be free. 
+
+Dropbox is free (but paid larger storage plans are not). 
+
+As far as I can tell, this method directly pipes the files to your new storage provider, preserving Modified Date etc. without storing on your local drive. 
+
+It consumes network bandwidth though, so get a good connection (not free).
 
 ## Further links/Acknowledgements
 
