@@ -16,7 +16,7 @@
 
 ```
 .\rclone.exe copy [gdrive remote]:[shared folder] [dropbox remote]:[shared folder]
-//
+
 .\rclone.exe copy --drive-shared-with-me --dropbox-batch-mode async gdrive:"Software Testing Mini Campaign/" dropbox:Folder/
 ```
 You can remove the tags if you're not using shared folders on google drive, and not uploading large numbers/large files onto dropbox
