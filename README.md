@@ -5,8 +5,9 @@
 
 ## Some of my mini projects
 
+[rclone guide to transfer files from Google Drive to Dropbox directly](rclone-guide.md)
 
-DBS webapp to increase digital adoption (upcoming relase)
+DBS webapp to increase digital adoption (upcoming release)
 
 Written with Rails on Ruby and hosted on Google Cloud Platform.
 
