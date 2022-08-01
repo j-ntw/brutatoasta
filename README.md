@@ -9,7 +9,7 @@
 
 DBS webapp to increase digital adoption (upcoming release)
 
-Written with Rails on Ruby and hosted on Google Cloud Platform.
+Written with Rails on Ruby and hosted on Google Cloud Platform. Became familiar with Ruby, Rails, Cucumber, Selenium and BDD practices, as well as Docker and Nginx.
 
 [MongoDB with Node.js demo](https://github.com/brutatoasta/escmongonode)
 
