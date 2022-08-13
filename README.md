@@ -7,7 +7,7 @@
 
 [rclone guide to transfer files from Google Drive to Dropbox directly](rclone-guide.md)
 
-DBS webapp to increase digital adoption (upcoming release)
+[DBS webapp to increase adoption of digital banking services](https://github.com/brutatoasta/hex-eye-team-12-Express-Solutions)
 
 Written with Rails on Ruby and hosted on Google Cloud Platform. Became familiar with Ruby, Rails, Cucumber, Selenium and BDD practices, as well as Docker and Nginx.
 
