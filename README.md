@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GameMaker Studio 2
 - 📫 How to reach me ... (AT)brutatoasta on Telegram; joshuantw(AT)gmail(DOT)com
 
-## Some of my mini projects
+## Projects
 
 [rclone guide to transfer files from Google Drive to Dropbox directly](rclone-guide.md)
 
