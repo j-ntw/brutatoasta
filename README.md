@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brutatoasta, a 4th year CS student.
 - 👀 I’m interested in tech about online FPS games: netcode, security, latency, sound design, etc.
-- 🌱 I’m currently learning GameMaker Studio 2
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me ... (AT)brutatoasta on Telegram; joshuantw(AT)gmail(DOT)com
 
 ## Projects
@@ -13,14 +13,14 @@ Written with Rails on Ruby and hosted on Google Cloud Platform. Became familiar 
 
 [MongoDB with Node.js demo](https://github.com/brutatoasta/escmongonode)
 
-
+<!---
 [Demo Express server to demonstrate CSS styling, written in JS](https://github.com/brutatoasta/first_static_express)
 
 
 [Player vs CPU Battleship boardgame written in Python](https://github.com/brutatoasta/battleshiprep)
 
 First major programming project! Learnt Python with it.
-
+--->
 
 [Smart Wardrobe Android App wrrten in Java](https://github.com/brutatoasta/shibushi)
 
