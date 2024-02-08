@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brutatoasta, a 4th year CS student.
+- 👋 Hi, I’m @j-ntw, a 4th year CS student.
 - 👀 I’m interested in tech about online FPS games: netcode, security, latency, sound design, etc.
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me ... (AT)brutatoasta on Telegram; joshuantw(AT)gmail(DOT)com
