@@ -2,6 +2,10 @@
 - 👀 I’m interested in tech about online FPS games: netcode, security, latency, sound design, etc.
 - 🌱 I’m currently learning Unity
 
+[![j-ntw's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-ntw&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-ntw&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects
 [2D Action Game - Office Politics](https://github.com/j-ntw/office-politics)
 A single player, top-down 2D action game with 4 levels.
